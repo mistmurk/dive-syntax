@@ -1,0 +1,15 @@
+{
+  "name": "dive-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A earthy light theme based on Tycho's Awake album art",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/dive-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
